@@ -1,0 +1,9 @@
+lxml
+numpy
+newspaper3k
+trafilatura
+beautifulsoup4
+requests
+pandas
+scikit-learn
+scipy
