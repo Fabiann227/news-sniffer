@@ -1,0 +1,108 @@
+[
+  {
+    "url": "https://inet.detik.com/security/d-8049351/awas-ada-badbox-2-malware-ganas-serang-jutaan-gadget-android",
+    "processed_by": "newspaper",
+    "title": "Awas Ada BadBox 2, Malware Ganas Serang Jutaan Gadget Android!",
+    "published_date": "2025-08-07 16:01:04",
+    "content": "baru ini, lembaga keamanan Amerika Serikat, FBI (Federal Bureau Investigation), memperingatkan serangan malware berbahaya yang menyasar jutaan perangkat Android secara global, termasuk smartphone, khususnya yang berharga murah.\n\nDilansir Kamis (7/8/2025), Forbes memberitakan bahwa sejak Maret, salah satu botnet terbesar dari jenisnya yang pernah terdeteksi berimbas pada lebih dari satu juta perangkat Android.\nbesaran itu dikenal sebagai BadBox, tapi sekarang telah disalip BadBox 2.0, dengan setidaknya 10 juta perangkat Android terinfeksi.\n\nSCROLL TO CONTINUE WITH CONTENT\n\nGoogle telah mengambil tindakan untuk melindungi pengguna serta meluncurkan tindakan hukum terhadap para pembuatnya. Sementara FBI mendesak pengguna yang terdampak untuk memutuskan sambungan perangkat mereka dari internet.\nPSA menyebut serangan ini menargetkan semuanya, mulai perangkat streaming, bingkai foto digital, sistem infotainment mobil aftermarket pihak ketiga, dan berbagai perangkat pintar rumah lainnya yang berbasis Android.\n\nPerangkat itu semuanya murah, tak bersertifikat dan sebagian besar berasal dari China, memungkinkan penyerang mengakses jaringan rumah dengan mengonfigurasi produk dengan software berbahaya sebelum pembelian. Pembaruan software wajib selama proses instalasi juga dapat memasang backdoor berbahaya.\n\nApa itu BadBox 2.0?\n\nMalware berbasis Android BadBox 2.0 menyusup ke perangkat IoT murah, seperti TV pintar, perangkat streaming, tablet, dan perangkat IoT dan mengubahnya jadi proksi berbahaya dan bagian dari botnet yang digunakan untuk operasi kriminal.\n\nSekitar 10 juta perangkat telah disusupi di seluruh dunia. BadBox 2.0 bersifat siluman dan sangat efektif dalam infeksinya. Tidak seperti malware tradisional, malware ini seringkali sudah terpasang sebelumnya di firmware perangkat murah. Ini berarti pengguna dapat disusupi langsung tanpa perlu melakukan tindakan.\n\nBanyak perangkat disusupi sebelum pengiriman, dengan malware tertanam di firmware. Pengguna tanpa sadar membeli perangkat pra infeksi yang sudah jadi bagian botnet. Infeksi lain terjadi selama proses penyiapan, melalui toko aplikasi pihak ketiga atau download dari situs berbahaya.\n\nPerangkat yang terinfeksi bertindak sebagai proksi, yang disewakan untuk aktivitas berbahaya. Tanda Infeksi termasuk penggunaan CPU yang tinggi, panas berlebih, kinerja lambat, Google Play Protect dinonaktifkan atau hilang sampai aplikasi yang tidak dikenal terpasang.\n\nBadBox 2.0 menyebar secara global. Infeksi ini terutama melibatkan hardware berbasis Android murah dan tidak bersertifikat, termasuk tablet generik, TV box, proyektor digital, dan perangkat IoT lainnya.\n\nPerangkat semacam itu umumnya diproduksi massal dan dikirim global melalui rantai pasokan yang tidak teregulasi. Analisis terkait dengan BadBox 2.0 mengungkapkan aktivitas infeksi di 222 negara dan wilayah.\n\nAgar terhindar, beli perangkat IoT dari merek terkemuka dengan keamanan firmware yang terverifikasi. Lalu, perbarui software dan patch keamanan secara berkala. Jika terinfeksi, putuskan sambungan perangkat dari semua jaringan dan lakukan reset pabrik.",
+    "authors": [
+      "Fino Yurio Kristo",
+      "Https",
+      "Www.Facebook.Com Detikinet",
+      "Fino Yurio Kristo -"
+    ],
+    "top_image": "https://akcdn.detik.net.id/api/wm/2024/10/09/ilustrasi-peringatan-tanda-ponel-di-kloning-orang-lain_169.jpeg?wid=54&w=650&v=1&t=jpeg",
+    "tags": [
+      "android",
+      "perangkat android",
+      "malware",
+      "badbox 2"
+    ],
+    "meta_data": {
+      "viewport": "initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "msapplication-TileColor": "#3C216D",
+      "theme-color": "#20409A",
+      "google-site-verification": "Iqj4hyi7QfCsiJUcWhumClTACR6lJ_WWfytVPYj8JHA",
+      "language": "id",
+      "geo.country": "id",
+      "description": "Baru-baru ini, lembaga keamanan Amerika Serikat, FBI (Federal Bureau Investigation), memperingatkan serangan malware berbahaya yang menyasar jutaan perangkat",
+      "originalTitle": "Awas Ada BadBox 2, Malware Ganas Serang Jutaan Gadget Android!",
+      "og": {
+        "type": "article",
+        "site_name": "detikinet",
+        "title": "Awas Ada BadBox 2, Malware Ganas Serang Jutaan Gadget Android!",
+        "image": {
+          "identifier": "https://akcdn.detik.net.id/api/wm/2024/10/09/ilustrasi-peringatan-tanda-ponel-di-kloning-orang-lain_169.jpeg?wid=54&w=650&v=1&t=jpeg",
+          "type": "image/jpeg",
+          "width": 650,
+          "height": 366
+        },
+        "description": "Baru-baru ini, lembaga keamanan Amerika Serikat, FBI (Federal Bureau Investigation), memperingatkan serangan malware berbahaya yang menyasar jutaan perangkat",
+        "url": "https://inet.detik.com/security/d-8049351/badbox-2-malware-ganas-yang-serang-jutaan-perangkat-android"
+      },
+      "fb": {
+        "app_id": 187960271237149,
+        "admins": 100000607566694
+      },
+      "copyright": "detikinet",
+      "p": {
+        "domain_verify": "2057b86bf61e5a346e22a380c6fecf89"
+      },
+      "robots": "max-snippet:-1, max-image-preview:large",
+      "googlebot-news": "index, follow",
+      "googlebot": "index, follow",
+      "kanalid": "2-105-1010-323",
+      "articleid": 8049351,
+      "articletype": "singlepage",
+      "articledewasa": "dewasatidak",
+      "articlehoax": "default",
+      "createdate": "2025/08/06 14:47:22",
+      "publishdate": "2025/08/07 16:01:04",
+      "contenttype": "singlepagenews",
+      "platform": "desktop",
+      "hl_nhl_wp": "nonheadline-0",
+      "hl_nhl_kanal": "headline-0-2-105",
+      "videopresent": "No",
+      "author": "Fino Yurio Kristo",
+      "genreauto": "timeless",
+      "keywords": "badbox 2,android,malware,perangkat android,infeksi,serikat,federal bureau investigation,fbi,badbox 2 . 0,iot,china,google play protect,botnet,i - 060525 - psa,amerika,serangan,proksi,ganas,tv,peringatan,serang,generik,play,streaming,penyerang,perangkat streaming,malware ganas serang jutaan gadget android,tablet generik,malware ganas,android badbox,tanda infeksi,android badbox 2.0,malware,peringatan keamanan siber fbi",
+      "thumbnailUrl": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/ilustrasi-peringatan-tanda-ponel-di-kloning-orang-lain.jpeg?w=650",
+      "article": {
+        "author": "https://www.facebook.com/detikinet",
+        "publisher": "https://www.facebook.com/detikinet"
+      },
+      "pubdate": "2025-08-07T16-01-04Z",
+      "twitter": {
+        "card": "summary_large_image",
+        "site": {
+          "identifier": "@detikinet",
+          "id": "@detikinet"
+        },
+        "creator": "@detikinet",
+        "description": "Baru-baru ini, lembaga keamanan Amerika Serikat, FBI (Federal Bureau Investigation), memperingatkan serangan malware berbahaya yang menyasar jutaan perangkat",
+        "image": "https://akcdn.detik.net.id/api/wm/2024/10/09/ilustrasi-peringatan-tanda-ponel-di-kloning-orang-lain_169.jpeg?wid=60&w=650&v=1&t=jpeg"
+      },
+      "dtk": {
+        "acctype": "acc-detikinet",
+        "kanalid": 323,
+        "articleid": 8049351,
+        "articletype": "singlepage",
+        "articledewasa": "dewasatidak",
+        "articlehoax": "default",
+        "createddate": "2025/08/06 14:47:22",
+        "publishdate": "2025/08/07 16:01:04",
+        "createddateunix": 1754466442000,
+        "publishdateunix": 1754557264000,
+        "contenttype": "singlepagenews",
+        "platform": "desktop",
+        "videopresent": "No",
+        "author": "Fino Yurio Kristo",
+        "genreauto": "timeless",
+        "keywords": "badbox 2,android,malware,perangkat android,infeksi,serikat,federal bureau investigation,fbi,badbox 2 . 0,iot,china,google play protect,botnet,i - 060525 - psa,amerika,serangan,proksi,ganas,tv,peringatan,serang,generik,play,streaming,penyerang,perangkat streaming,malware ganas serang jutaan gadget android,tablet generik,malware ganas,android badbox,tanda infeksi,android badbox 2.0,malware,peringatan keamanan siber fbi",
+        "thumbnailUrl": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/ilustrasi-peringatan-tanda-ponel-di-kloning-orang-lain.jpeg?w=650",
+        "status": 1
+      }
+    }
+  }
+]
