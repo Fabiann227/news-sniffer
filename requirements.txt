@@ -7,3 +7,4 @@ requests
 pandas
 scikit-learn
 scipy
+faker
